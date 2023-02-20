@@ -1,0 +1,55 @@
+t,Artificial intelligence is
+t,Machine learning is
+t,Data science is
+t,Data analysis is
+t,Web development is
+t,Infrastructure is
+t,War is
+t,Alcohol is
+t,Bier is
+t,Proverty is
+t,Trading is
+t,Logic is
+t,Money is
+t,Power is
+t,Freedom is
+t,Envy is
+t,Proud is
+t,Knowledge is
+t,Environment is
+t,Reason is
+
+a,honestly
+a,maybe
+a,always
+a,somehow
+a,never
+a,logically
+a,not
+a,primarily
+a,preferably
+a,quickly
+a,slowly
+a,easily
+a,hardly
+a,carefully
+a,clearly
+a,fully
+a,simply
+a,always
+a,never
+a,often
+a,rarely
+a,sometimes
+a,frequently
+a,already
+a,nearly
+a,almost
+a,completely
+a,continuously
+a,actually
+
+d,permitted
+d,the answer to everything
+d,the meaning of life
+d,all right

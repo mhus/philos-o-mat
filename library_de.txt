@@ -1,0 +1,67 @@
+t,Alkohol ist
+t,Armut ist
+t,Das Abstellen von Fahrrädern ist
+t,Bier ist
+t,Börsenhandel ist
+t,Ehrlichkeit ist
+t,Erwerbsarbeit ist
+t,Freiheit ist
+t,Geld ist
+t,Die Gesellschaft ist
+t,Haltung ist
+t,Krieg ist
+t,Künstliche Inteligenz ist
+t,Logik ist
+t,Macht ist
+t,Massenmord ist
+t,Naivität ist
+t,Neid ist
+t,Reichtum ist
+t,Scheinselbstständigkeit ist
+t,Der Sozialstaat ist
+t,Stolz ist
+t,Streben ist
+t,Der Pöbel ist
+t,Die Politik ist
+t,Die Umwelt ist
+t,Vernunft ist
+t,Wissen ist
+t,Webentwicklung ist
+
+a,ehrlich gesagt
+a,eventuell
+a,genau genommen
+a,gewissermaßen
+a,global betrachtet
+a,im Prinzip
+a,immer
+a,in Wirklichkeit
+a,irgendwie
+a,logischerweise
+a,nicht
+a,nie
+a,nüchtern betrachtet
+a,unter Umständen
+a,vielleicht
+a,vorzugsweise
+
+d,anzustreben
+d,ausreichend
+d,die Antwort auf Alles
+d,der Sinn des Lebens
+d,entscheidend
+d,echt daneben'
+d,echt notwendig
+d,ein Trugschluss
+d,genehmigt
+d,in Ordnung
+d,logisch
+d,nicht notwendig
+d,nur in Ausnahmefällen okay
+d,strengstens verboten
+d,unwichtig
+d,das Wichtigste
+d,zu begrüßen
+d,zu unterlassen
+d,zu vernachlässigen
+d,Zeitverschwendung
