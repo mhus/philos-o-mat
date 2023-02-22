@@ -46,4 +46,4 @@ if [[ "$TERM" =~ "xterm" ]]; then
   PRE="\033[3m"
   POST="\033[23m"
 fi
-echo -e "${PRE}„$MAT_TOPIC $MAT_ADVERB $MAT_DEPICTION.“ — Philos-O-Mat$POST"
+echo -e "${PRE}„$MAT_TOPIC $MAT_ADVERB $MAT_DEPICTION.“$POST — Philos-O-Mat"

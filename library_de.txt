@@ -161,7 +161,6 @@ d,die Basis des Zusammenlebens
 d,die höchste Tugend
 d,doch nur relativ
 d,echt daneben
-d,echt daneben'
 d,echt notwendig
 d,ein Geschenk Gottes
 d,ein Trugschluss
