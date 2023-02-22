@@ -1,55 +1,205 @@
-t,Artificial intelligence is
-t,Machine learning is
-t,Data science is
-t,Data analysis is
-t,Web development is
-t,Infrastructure is
-t,War is
 t,Alcohol is
-t,Bier is
-t,Proverty is
-t,Trading is
-t,Logic is
-t,Money is
-t,Power is
+t,Everything is
+t,Fear is
+t,Poverty is
+t,Fraud is
+t,Stock market trading is
+t,Parking bicycles is t
+t,Television is
+t,Life is
+t,Fate is
+t,The last beer is
+t,Democracy is
+t,Thinking is
+t,The rabble is
+t,The meaning of life is
+t,The moral decay is
+t,The welfare state is
+t,Death is
+t,Society is
+t,The youth is
+t,The art is
+t,Politics is
+t,The environment is
+t,Selfishness is
+t,Marriage is
+t,Honesty is
+t,Jealousy is
+t,Dieting is
+t,Gainful employment is
+t,Procreation is
 t,Freedom is
+t,Friendship is
+t,Peace is
+t,Money is
+t,Gender is
+t,Justice is
+t,Happiness is
+t,Attitude is
+t,Hate is
+t,Hope is
+t,Humor is
+t,Consumption is
+t,War is
+t,Artificial intelligence is
+t,Lightness is
+t,Performance is
+t,Love is
+t,Logic is
+t,Power is
+t,Mass murder is
+t,Morality is
+t,Courage is
+t,Naivety is
 t,Envy is
-t,Proud is
-t,Knowledge is
-t,Environment is
+t,Lateral thinking is
+t,Racism is
+t,Wealth is
+t,Religion is
+t,Bogus self-employment is
+t,Selflessness is
+t,Pride is
+t,Striving is
+t,Independence is
+t,Injustice is
+t,Responsibility is
 t,Reason is
+t,Web development is
+t,Knowledge is
 
-a,honestly
-a,maybe
+a,at most
+a,at the end of the day
+a,in and of itself
+a,even for hardcore
+a,seen in the light
+a,with all love
+a,said through the nose
+a,honestly said
+a,proven
+a,possibly
+a,for concerned citizens
+a,for our kind
+a,for many just
+a,quite objectively
+a,to say the least
+a,strictly speaking
+a,to a certain extent
+a,globally considered
+a,nowadays
+a,in principle
 a,always
+a,in truth
+a,in reality
+a,in the future
+a,in other cultures
+a,in this sense
+a,in some sense
 a,somehow
-a,never
+a,somehow
+a,unfortunately
+a,ultimately
 a,logically
+a,humanly speaking
+a,by no means
 a,not
-a,primarily
-a,preferably
-a,quickly
-a,slowly
-a,easily
-a,hardly
-a,carefully
-a,clearly
-a,fully
-a,simply
-a,always
 a,never
-a,often
-a,rarely
-a,sometimes
-a,frequently
-a,already
-a,nearly
-a,almost
-a,completely
-a,continuously
+a,soberly considered
+a,practically
+a,primary
+a,quasi
+a,in retrospect
+a,finally
+a,for a long time
+a,certainly
+a,so to speak
+a,strictly speaking
+a,piecemeal
 a,actually
+a,theoretically
+a,sadly
+a,undeniably
+a,under the influence of drugs
+a,under circumstances
+a,bottom line
+a,irrefutably
+a,perhaps
+a,by law
+a,from the outside
+a,above all
+a,probably
+a,preferably
+a,as one hears
+a,really
+a,fortunately
 
-d,permitted
-d,the answer to everything
+d,waste of time
+d,all that remains
+d,all we have
+d,to strive for
+d,sufficient
+d,meaningless
+d,better than sex
+d,the most important thing
+d,the goal of all striving
+d,that which is worth living for
+d,the beginning of all evil
+d,the beginning of the end
+d,the key to happiness
 d,the meaning of life
+d,the first step to recovery
+d,the answer to everything
+d,the basis of living together
+d,the highest virtue
+d,but only relative
+d,really off the mark
+d,genuinely beside the point'
+d,genuinely necessary
+d,a gift of God
+d,a fallacy
+d,a fatal mistake
+d,a great privilege
+d,a matter of decency
+d,a question of the right tone
+d,an illusion
+d,a catastrophe
+d,a weakness
+d,a great opportunity
+d,a great disappointment
+d,decisive
+d,just the beginning
+d,threatening existence
+d,wrong
+d,questionable
+d,horny
+d,approved
+d,always gift and task at the same time
+d,always predestined
 d,all right
+d,left to everyone himself
+d,no longer a trivial offense
+d,logical
+d,my comfort and support
+d,to be enjoyed with caution
+d,not fundamentally wrong
+d,no longer tenable
+d,not necessary
+d,worth nothing
+d,still the least evil
+d,only the tip of the iceberg
+d,only okay in exceptional cases
+d,worse than death
+d,strictly forbidden
+d,our salvation
+d,lowest level
+d,unimportant
+d,absolutely indispensable
+d,totally underestimated
+d,totally arbitrary
+d,totally outdated
+d,completely overestimated
+d,to be welcomed
+d,to be omitted
+d,to neglect
+d,deeply human
+
+# Translated with www.DeepL.com/Translator (free version)

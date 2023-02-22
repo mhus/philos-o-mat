@@ -14,7 +14,10 @@ do
     then
         TYPE=${line:0:1}
         TXT=${line:2}
-        if [ $TYPE == "t" ] 
+        if [ $TYPE == "#" ]
+        then # ignore line
+            sleep 0
+        elif [ $TYPE == "t" ] 
         then
             MAT_TOPICS+=("$TXT")
         elif [ $TYPE == "a" ]
@@ -37,4 +40,10 @@ R=$RANDOM
 let R%=${#MAT_DEPICTIONS[*]}
 MAT_DEPICTION=${MAT_DEPICTIONS[$R]}
 
-echo $MAT_TOPIC $MAT_ADVERB $MAT_DEPICTION
+PRE=""
+POST=""
+if [[ "$TERM" =~ "xterm" ]]; then
+  PRE="\033[3m"
+  POST="\033[23m"
+fi
+echo -e "${PRE}„$MAT_TOPIC $MAT_ADVERB $MAT_DEPICTION.“ — Philos-O-Mat$POST"

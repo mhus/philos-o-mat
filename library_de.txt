@@ -1,67 +1,212 @@
 t,Alkohol ist
+t,Alles ist
+t,Angst ist
 t,Armut ist
-t,Das Abstellen von Fahrrädern ist
-t,Bier ist
+t,Betrug ist
 t,Börsenhandel ist
-t,Ehrlichkeit ist
-t,Erwerbsarbeit ist
-t,Freiheit ist
-t,Geld ist
+t,Das Abstellen von Fahrrädern ist
+t,Das Fernsehen ist
+t,Das Leben ist
+t,Das Schicksal ist
+t,Das letzte Bier ist
+t,Demokratie ist
+t,Denken ist
+t,Der Pöbel ist
+t,Der Sinn des Lebens ist
+t,Der Sittenverfall ist
+t,Der Sozialstaat ist
+t,Der Tod ist
 t,Die Gesellschaft ist
+t,Die Jugend ist
+t,Die Kunst ist
+t,Die Politik ist
+t,Die Umwelt ist
+t,Egoismus ist
+t,Ehe ist
+t,Ehrlichkeit ist
+t,Eifersucht ist
+t,Eine Diät ist
+t,Erwerbsarbeit ist
+t,Fortpflanzung ist
+t,Freiheit ist
+t,Freundschaft ist
+t,Frieden ist
+t,Geld ist
+t,Gendern ist
+t,Gerechtigkeit ist
+t,Glück ist
 t,Haltung ist
+t,Hass ist
+t,Hoffnung ist
+t,Humor ist
+t,Konsum ist
 t,Krieg ist
 t,Künstliche Inteligenz ist
+t,Leichtsin ist
+t,Leistung ist
+t,Liebe ist
 t,Logik ist
 t,Macht ist
 t,Massenmord ist
+t,Moral ist
+t,Mut ist
 t,Naivität ist
 t,Neid ist
+t,Querdenken ist
+t,Rassismus ist
 t,Reichtum ist
+t,Religion ist
 t,Scheinselbstständigkeit ist
-t,Der Sozialstaat ist
+t,Selbstlosigkeit ist
 t,Stolz ist
 t,Streben ist
-t,Der Pöbel ist
-t,Die Politik ist
-t,Die Umwelt ist
+t,Unabhängigkeit ist
+t,Ungerechtigkeit ist
+t,Verantwortung ist
 t,Vernunft ist
-t,Wissen ist
 t,Webentwicklung ist
+t,Wissen ist
+t,Die Fragen des Universums sind
+t,Die frühen Erungenschaften der Wissenschaft waren
+t,Nachhaltigkeit ist
+t,Sex ist
+t,Die Liebe meines Lebens war
+t,Selbstdarstellung ist
+t,Der freie Wille ist
 
+a,allenfalls
+a,am Ende des Tages
+a,an und für sich
+a,auch für Hartgesottene
+a,bei Lichte gesehen
+a,bei aller Liebe
+a,durch die Blume gesagt
 a,ehrlich gesagt
+a,erwiesenermaßen
 a,eventuell
-a,genau genommen
+a,für besorgte Bürger
+a,für unsereins
+a,für viele gerade einmal
+a,ganz objektiv
+a,gelinde gesagt
+a,genaugenommen
 a,gewissermaßen
 a,global betrachtet
+a,heutzutage
 a,im Prinzip
 a,immer
+a,in Wahrheit
 a,in Wirklichkeit
+a,in Zukunft
+a,in anderen Kulturkreisen
+a,in diesem Sinne
+a,in gewisser Hinsicht
 a,irgendwie
+a,irgendwie
+a,leider
+a,letztlich
 a,logischerweise
+a,menschlich gesehen
+a,mitnichten
 a,nicht
 a,nie
 a,nüchtern betrachtet
+a,praktisch
+a,primär
+a,quasi
+a,rückblickend
+a,schließlich
+a,schon lange nicht mehr
+a,sicherlich
+a,sozusagen
+a,streng genommen
+a,stückweise
+a,tatsächlich
+a,theoretisch
+a,traurigerweise
+a,unleugbar
+a,unter Drogeneinfluss
 a,unter Umständen
+a,unterm Strich
+a,unwiederleglich
 a,vielleicht
+a,von Rechts wegen
+a,von außen betrachtet
+a,vor allem
+a,voraussichtlich
 a,vorzugsweise
+a,wie man hört
+a,wirklich
+a,zum Glück
+a,aus heutiger Sicht
+a,mit Ambstand betrachtet
 
+d,Zeitverschwendung
+d,alles, was bleibt
+d,alles, was wir haben
 d,anzustreben
 d,ausreichend
-d,die Antwort auf Alles
+d,bedeutungslos
+d,besser als Sex
+d,das Wichtigste
+d,das Ziel allen Strebens
+d,das, wofür es sich zu leben lohnt
+d,der Anfang allen Übels
+d,der Anfang vom Ende
+d,der Schlüssel zum Glück
 d,der Sinn des Lebens
-d,entscheidend
+d,der erste Schritt zur Besserung
+d,die Antwort auf Alles
+d,die Basis des Zusammenlebens
+d,die höchste Tugend
+d,doch nur relativ
+d,echt daneben
 d,echt daneben'
 d,echt notwendig
+d,ein Geschenk Gottes
 d,ein Trugschluss
+d,ein fataler Fehler
+d,ein großes Privileg
+d,eine Frage des Anstands
+d,eine Frage des richtigen Tons
+d,eine Illusion
+d,eine Katastrophe
+d,eine Schwäche
+d,eine große Chance
+d,eine große Enttäuschung
+d,entscheidend
+d,erst der Anfang
+d,existenzgefährdend
+d,falsch
+d,fragwürdig
+d,geil
 d,genehmigt
+d,immer Gabe und Aufgabe zugleich
+d,immer schon vorherbestimmt
 d,in Ordnung
+d,jedem selbst überlassen
+d,kein Kavaliersdelikt mehr
 d,logisch
+d,mein Trost und Halt
+d,mit Vorsicht zu genießen
+d,nicht grundfalsch
+d,nicht mehr haltbar
 d,nicht notwendig
+d,nichts wert
+d,noch das geringste Übel
+d,nur die Spitze des Eisbergs
 d,nur in Ausnahmefällen okay
+d,schlimmer als der Tod
 d,strengstens verboten
+d,unsere Rettung
+d,unterstes Niveau
 d,unwichtig
-d,das Wichtigste
+d,völlig unabdingbar
+d,völlig unterschätzt
+d,völlig willkürlich
+d,völlig überholt
+d,völlig überschätzt
 d,zu begrüßen
 d,zu unterlassen
 d,zu vernachlässigen
-d,Zeitverschwendung
+d,zutiefst menschlich
