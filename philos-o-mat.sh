@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 MAT_LANG=${MAT_LANG:-en}
 MAT_ROOT=$( dirname -- "$0"; )
